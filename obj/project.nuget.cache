@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nuqIAiLXpBI14UyX4BKKu8Q5dmN68Qeh/n7s0WgiLds57H0q88UarskNaxO8yYPwQ5Dw2LumrRQZqjr7aPn+MQ==",
+  "success": true,
+  "projectFilePath": "/home/anonymous-snapdragon/Documents/Projects/Web Projects/Projects/Learn_C#/Learn_C#.csproj",
+  "expectedPackageFiles": [
+    "/home/anonymous-snapdragon/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/anonymous-snapdragon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/anonymous-snapdragon/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
